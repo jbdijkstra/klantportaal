@@ -1,0 +1,3 @@
+klantportaal_app_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: KlantportaalAppBundle:Default:index }

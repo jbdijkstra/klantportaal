@@ -1,0 +1,4 @@
+klantportaal_app:
+    resource: "@KlantportaalAppBundle/Resources/config/routing.yml"
+    prefix:   /
+

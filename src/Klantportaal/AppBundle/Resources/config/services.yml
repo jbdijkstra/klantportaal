@@ -1,0 +1,7 @@
+parameters:
+#    klantportaal_app.example.class: Klantportaal\AppBundle\Example
+
+services:
+#    klantportaal_app.example:
+#        class: %klantportaal_app.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
